@@ -1,10 +1,12 @@
-# info-cern-ch created in cmder
-cd MSIMBO
-ls
-cd info-cern-ch
-paste code
-README.md (file that appers)
-touch index.html overview.html what-is.html
-removed README.md 
-recreated README.md
-push it back to main branch
+# Creating folder in CMDR
+
+CD Msimbo-projects
+MKDIR info-cern
+Ls
+Touch index.html readme.md what-is.html
+Ls
+GIT INIT
+Git Commit scripts from Github
+Open Github
+Edit ReadMe file
+Run Commit script
