@@ -4,6 +4,7 @@ CD Msimbo-projects
 MKDIR info-cern
 Ls
 Touch index.html readme.md what-is.html
+Rm .git
 Ls
 GIT INIT
 Git Commit scripts from Github
